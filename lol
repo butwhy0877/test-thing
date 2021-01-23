@@ -8,6 +8,4 @@ sudo apt install gnome-tweaks
 sudo apt install telegram-desktop
 sudo apt install aria2
 sudo apt install dropbox nautilus-dropbox
-# aria2c https://mega.nz/folder/44l11AbL#lvKSDpqifdhUyfn69fkKsA
 sudo nano /etc/gdm3/custom.conf
-echo "jojonokimyounabouken"
